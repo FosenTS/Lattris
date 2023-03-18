@@ -1,0 +1,2 @@
+# Lattris
+SigmaDevs system-automatic
