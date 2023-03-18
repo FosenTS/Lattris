@@ -1,0 +1,22 @@
+.PostApplications {
+    border: 2px solid;
+    border-color: purple;
+    margin: 5%;
+    margin-top: 3%;
+    width: auto;
+    height: 100px;
+}
+
+.numberID {
+    padding: 10px;
+}
+
+.NameComp {
+    padding: 10px;
+}
+
+.Status {
+    padding-bottom: 10px;
+    padding-left: 410px;
+    margin-top: -5%;
+}
