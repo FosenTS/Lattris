@@ -3,13 +3,14 @@ import '../styles/PostApplication.css'
 
 
 function PostApplications(props) {
+
   console.log(props)
   return (
     <div className= "PostApplications">
       <div className= "PostApplications__content">
         <div className= "numberID">
           <strong>{props.application.numberID}</strong>
-        </div>
+        </div> 
         <div className='NameComp'>
           <strong>{props.application.Name}</strong>
         </div>

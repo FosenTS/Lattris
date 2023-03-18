@@ -9,3 +9,12 @@
     justify-content: center;
 }
 
+
+.App {
+    width: 800px;
+}
+
+option {
+    margin: 15px 0;
+}
+
